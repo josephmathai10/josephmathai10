@@ -39,6 +39,8 @@ Web Developer and Designer
 
 <a href="https://github.com/josephmathai10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmathai10&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![@josephmathai_10's Holopin board](https://holopin.io/api/user/board?user=josephmathai_10)](https://holopin.io/@josephmathai_10)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/josephmathai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
