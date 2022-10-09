@@ -5,8 +5,8 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Kerala
-* 🖥️  See my portfolio at [this link](http://josephmathai10.github.io/myportfolio/)
-* ✉️  You can contact me at [bonymathewpathil@gmail.com](mailto:bonymathewpathil@gmail.com)
+* 🖥️  See my portfolio at [this link](https://josephmathai10.github.io/myportfolio/)
+* ✉️  You can contact me at [bonymathewpathil@gmail.com](https://mailto:bonymathewpathil@gmail.com)
 * 🚀  I'm currently working on [Inovus Labs](http://inovuslabs.org)
 * 🧠  I'm learning Django, Figma, Android Development, etc.....
 * 🤝  I'm open to collaborating on Web Development and UI/UX Project
