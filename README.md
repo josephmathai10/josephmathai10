@@ -31,15 +31,11 @@ Web Developer and Designer
 
 <p align="left"> <a href="https://www.dev.to/josephmathai10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/843531105478901820" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/josephmathai10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bony._.mathew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseph-mathai-pathil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17503272" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BonyMathew2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/josephmathai10"><img src="https://github-readme-stats.vercel.app/api?username=josephmathai10&show_icons=true,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="josephmathai10's GitHub stats" /></a>
+### My GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephmathai10&theme=dracula" alt="josephmathai10" />
 
-<a href="https://github.com/josephmathai10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmathai10&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Badges
 
 [![@josephmathai_10's Holopin badges](https://holopin.io/api/user/board?user=josephmathai_10)](https://holopin.io/@josephmathai_10)
 
