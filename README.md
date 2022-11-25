@@ -37,6 +37,7 @@ Web Developer and Designer
 ### Badges
 
 [![@josephmathai_10's Holopin badges](https://holopin.io/api/user/board?user=josephmathai_10)](https://holopin.io/@josephmathai_10)
+[![Check out josephmathai10's profile on stardev.io](https://stardev.io/developers/josephmathai10/badge/languages/global.svg)](https://stardev.io/developers/josephmathai10)
 
 ### Another Day, Another Coffee
 
