@@ -7,7 +7,7 @@ Web Developer and Designer
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [here](https://the-humandesigner.web.app)
 * ✉️  You can contact me at [bonymathewpathil@gmail.com](mailto:bonymathewpathil@gmail.com)
-* 🚀  I'm currently working on [Inovus Labs](http://inovuslabs.org)
+* 🚀  I'm currently working as a Product designer
 * 🧠  I'm learning Django, Figma, Android Development, etc.....
 * 🤝  I'm open to collaborating on Web Development and UI/UX Project
 * ⚡  I'm half Spiderman🕷 & half Batman🦇 but don't tell anyone🙊. Because like Spiderman, I have no money💸 & like Batman, I have no power💪.
